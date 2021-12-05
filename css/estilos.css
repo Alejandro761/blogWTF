@@ -10,3 +10,7 @@ h1{
 p{
     background-color: rgb(42, 165, 108);
 }
+
+#footer{
+    background-color: crimson;
+}
